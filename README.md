@@ -1,1 +1,1 @@
-Landing page for IndispensableMe Api
+Landing page for IndispensableMe Marketing API
